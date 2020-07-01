@@ -1,0 +1,643 @@
+#EXTM3U
+#EXTINF:-1, group-title="中央频道", CCTV-4
+http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-5
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-6
+http://223.110.241.204:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-7
+http://223.110.241.204:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-8
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-9
+http://223.110.241.204:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1, group-title="中央频道", CCTV-10
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-11
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1, group-title="中央频道", CCTV-12
+http://223.110.241.204:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1, group-title="中央频道", CCTV-14
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1, group-title="中央频道", CCTV-15
+http://223.110.241.204:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1, group-title="中央频道", CCTV-5+
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1, group-title="地方频道", 云南卫视
+http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+#EXTINF:-1, group-title="地方频道", 凤凰中文
+http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1, group-title="地方频道", 凤凰资讯
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1, group-title="地方频道", 凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1, group-title="地方频道", 北京纪实
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+#EXTINF:-1, group-title="地方频道", 北京青年
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1, group-title="地方频道", 吉林卫视
+http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:-1, group-title="地方频道", 四川卫视
+http://223.110.241.204:6610/gitv/live1/SCWS/SCWS/
+#EXTINF:-1, group-title="地方频道", 天津卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226048/index.m3u8
+#EXTINF:-1, group-title="地方频道", 宁夏卫视
+http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+#EXTINF:-1, group-title="地方频道", 安徽卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226045/index.m3u8
+#EXTINF:-1, group-title="地方频道", 山东卫视
+http://223.110.241.204:6610/gitv/live1/SDWS/SDWS/
+#EXTINF:-1, group-title="地方频道", 山东教育
+http://live.sdetv.com.cn/live/sdetv/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 广东卫视
+http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
+#EXTINF:-1, group-title="地方频道", 广西卫视
+http://223.110.241.204:6610/gitv/live1/GXWS/GXWS/
+#EXTINF:-1, group-title="地方频道", 新疆卫视
+http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:-1, group-title="地方频道", 江苏公共
+http://223.110.241.204:6610/gitv/live1/G_JSGG/G_JSGG/
+#EXTINF:-1, group-title="地方频道", 江苏卫视
+http://223.110.243.136/PLTV/3/224/3221227185/index.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏城市
+http://223.110.241.204:6610/gitv/live1/G_JSCS/G_JSCS/
+#EXTINF:-1, group-title="地方频道", 江苏影视
+http://223.110.241.204:6610/gitv/live1/G_JSYS/G_JSYS/
+#EXTINF:-1, group-title="地方频道", 江苏教育
+http://223.110.241.204:6610/gitv/live1/G_JSJY/G_JSJY/
+#EXTINF:-1, group-title="地方频道", 江苏综艺
+http://223.110.241.204:6610/gitv/live1/G_JSZY/G_JSZY/
+#EXTINF:-1, group-title="地方频道", 江西卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226044/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北公共
+http://weblive.hebtv.com/live/hbgg_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北农民
+http://weblive.hebtv.com/live/nmpd_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北卫视
+http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI/
+#EXTINF:-1, group-title="地方频道", 河北少儿
+http://weblive.hebtv.com/live/hbse_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北影视
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北戏曲
+http://117.158.206.60:9080/live/live31_tzwj_500k.m3u8
+#EXTINF:-1, group-title="地方频道", 河北经济
+http://weblive.hebtv.com/live/hbjj_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北都市
+http://weblive.hebtv.com/live/hbds_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河南卫视
+http://223.110.241.204:6610/gitv/live1/HENAN/HENAN/
+#EXTINF:-1, group-title="地方频道", 浙江卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8
+#EXTINF:-1, group-title="地方频道", 浙江少儿
+http://ali.m.l.cztv.com/channels/lantian/channel08/270p.m3u8
+#EXTINF:-1, group-title="地方频道", 海南藏语
+http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 湖北卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225993/index.m3u8
+#EXTINF:-1, group-title="地方频道", 湖北影视
+http://live.cjyun.org/video/s10008-hbys2018/index.m3u8
+#EXTINF:-1, group-title="地方频道", 澳门卫视
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1, group-title="地方频道", 甘肃卫视
+http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1, group-title="地方频道", 西藏卫视
+http://223.110.241.204:6610/gitv/live1/G_XIZANG/G_XIZANG/
+#EXTINF:-1, group-title="地方频道", 贵州卫视
+http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+#EXTINF:-1, group-title="地方频道", 辽宁卫视
+http://223.110.241.204:6610/gitv/live1/LNWS/LNWS/
+#EXTINF:-1, group-title="地方频道", 重庆卫视
+http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
+#EXTINF:-1, group-title="地方频道", 陕西卫视
+http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI/
+#EXTINF:-1, group-title="地方频道", 青海卫视
+http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+#EXTINF:-1, group-title="地方频道", 内蒙古卫视
+http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+#EXTINF:-1, group-title="地方频道", 香港奇妙台
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1, group-title="地方频道", 黑龙江卫视
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
+#EXTINF:-1, group-title="地方频道", 北京卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:-1, group-title="地方频道", 四川TV-4
+http://scgctvshow.sctv.com/sdlive/sctv4/3.m3u8
+#EXTINF:-1, group-title="地方频道", 四川TV-6
+http://scgctvshow.sctv.com/sdlive/sctv6/3.m3u8
+#EXTINF:-1, group-title="地方频道", 四川卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:-1, group-title="地方频道", 天津卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1, group-title="地方频道", 安徽卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:-1, group-title="地方频道", 山东卫视超清
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+#EXTINF:-1, group-title="地方频道", 山东卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:-1, group-title="地方频道", 广东卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏休闲体育
+http://223.110.241.204:6610/gitv/live1/G_JSTY/G_JSTY/
+#EXTINF:-1, group-title="地方频道", 江苏卫视超清
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
+#EXTINF:-1, group-title="地方频道", 江苏卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1, group-title="地方频道", 江西卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+#EXTINF:-1, group-title="地方频道", 河北卫视-1
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1, group-title="地方频道", 河北卫视-2
+http://weblive.hebtv.com/live/hbws_bq.m3u8
+#EXTINF:-1, group-title="地方频道", 浙江卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:-1, group-title="地方频道", 湖南卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1, group-title="地方频道", 辽宁卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:-1, group-title="地方频道", 陕西卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:-1, group-title="地方频道", 香港耀才财经
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 山东教育电视台
+http://223.110.241.204:6610/gitv/live1/G_SDETV/G_SDETV/
+#EXTINF:-1, group-title="地方频道", 黑龙江卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:-1, group-title="地方频道", 南方卫视（广东）
+http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1, group-title="地方频道", 四川妇女儿童高清
+http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
+#EXTINF:-1, group-title="地方频道", 四川影视文艺高清
+http://scgctvshow.sctv.com/hdlive/sctv5/3.m3u8
+#EXTINF:-1, group-title="地方频道", 四川文化旅游高清
+http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
+#EXTINF:-1, group-title="地方频道", 四川经济频道高清
+http://scgctvshow.sctv.com/hdlive/sctv3/3.m3u8
+#EXTINF:-1, group-title="地方频道", 江苏体育休闲频道
+http://183.207.249.12/PLTV/4/224/3221225935/index.m3u8
+#EXTINF:-1, group-title="地方频道", 北京卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
+#EXTINF:-1, group-title="地方频道", 湖南卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
+#EXTINF:-1, group-title="地方频道", 南京十八
+http://223.110.241.204:6610/gitv/live1/G_NJSB/G_NJSB/
+#EXTINF:-1, group-title="地方频道", 南京科教
+http://223.110.241.204:6610/gitv/live1/G_NJJK/G_NJJK/
+#EXTINF:-1, group-title="地方频道", 厦门一套
+http://cstvpull.live.wscdns.com/live/xiamen1.flv
+#EXTINF:-1, group-title="地方频道", 厦门三套
+http://cstvpull.live.wscdns.com/live/xiamen3.flv
+#EXTINF:-1, group-title="地方频道", 厦门二套
+http://cstvpull.live.wscdns.com/live/xiamen2.flv
+#EXTINF:-1, group-title="地方频道", 厦门卫视
+http://cstvpull.live.wscdns.com/live/xiamen.flv
+#EXTINF:-1, group-title="地方频道", 孝感公共
+http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
+#EXTINF:-1, group-title="地方频道", 宁德公共
+http://220.161.247.82:8199/live/nd2_1128.m3u8
+#EXTINF:-1, group-title="地方频道", 宁德综合
+http://220.161.247.82:8199/live/nd1_1128.m3u8
+#EXTINF:-1, group-title="地方频道", 延安公共
+http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 延安综合
+http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州公共
+http://stream1.huaihai.tv/ggpd/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州影视
+http://stream1.huaihai.tv/wyys/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州生活
+http://stream1.huaihai.tv/jjsh/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 徐州综合
+http://stream1.huaihai.tv/xwzh/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 洛阳公共
+http://live2.lytv.com.cn:1935/live/LYTV3-2/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 洛阳科教
+http://live2.lytv.com.cn:1935/live/LYTV2-2/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 洛阳综合
+http://live1.lytv.com.cn:1935/live/LYTV1-2/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南商务
+http://ts1.ijntv.cn/jnsw/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南娱乐
+http://ts2.ijntv.cn/jnyl/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 济南少儿
+http://ts2.ijntv.cn/jnse/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南影视
+http://ts1.ijntv.cn/jnyd/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南新闻
+http://ts1.ijntv.cn/xwhd/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南生活
+http://ts2.ijntv.cn/jnsh/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 济南都市
+http://ts1.ijntv.cn/jnds/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 深圳卫视
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+#EXTINF:-1, group-title="地方频道", 潮州公共
+http://live.zscz0768.com/live/ggpd.m3u8
+#EXTINF:-1, group-title="地方频道", 福州少儿
+http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 福州影视
+http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 福州生活
+http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 福州综合
+http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 舟山公共
+http://live.wifizs.cn/ggsh/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 舟山新闻
+http://live.wifizs.cn/xwzh/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 舟山旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安-2
+http://stream2.xiancity.cn/xatv2/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安健康
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安影视
+http://stream2.xiancity.cn/xatv4/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 西安资讯
+http://stream2.xiancity.cn/xatv3/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 金华教育
+http://stream.jinhua.com.cn/jykj/app/live.m3u8
+#EXTINF:-1, group-title="地方频道", 金华都市
+http://stream.jinhua.com.cn/dsnc/app/live.m3u8
+#EXTINF:-1, group-title="地方频道", 龙岩公共
+http://stream.lytv.net.cn/1/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 万州综合频道
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 东方卫视高清
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+#EXTINF:-1, group-title="地方频道", 亳州农村频道
+http://218.22.251.12:8001/tslslive/JpWzs2u/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 亳州新闻频道
+http://218.22.251.12:8001/tslslive/wT9aUpL/hls/live_sd.m3u8
+#EXTINF:-1, group-title="地方频道", 南京新闻综合
+http://223.110.241.204:6610/gitv/live1/G_NJXW/G_NJXW/
+#EXTINF:-1, group-title="地方频道", 厦门移动电视
+http://cstvpull.live.wscdns.com/live/xiamenyidong.flv
+#EXTINF:-1, group-title="地方频道", 大足文化频道
+http://183.230.1.208:3170/hls5.m3u8
+#EXTINF:-1, group-title="地方频道", 大足综合频道
+http://183.230.1.208:3170/hls1.m3u8
+#EXTINF:-1, group-title="地方频道", 娄底综合频道
+http://119.39.242.52:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1, group-title="地方频道", 巴南快乐频道
+http://stream.cqbntv.com/channel3/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 巴南生活服务
+http://stream.cqbntv.com/channel2/sd/live.m3u8
+#EXTINF:-1, group-title="地方频道", 深圳卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:-1, group-title="地方频道", 衡水公共频道
+http://hls.hsrtv.cn/hls/hstv3.m3u8
+#EXTINF:-1, group-title="地方频道", 衡水影视娱乐
+http://hls.hsrtv.cn/hls/hstv2.m3u8
+#EXTINF:-1, group-title="地方频道", 衡水新闻综合
+http://hls.hsrtv.cn/hls/hstv1.m3u8
+#EXTINF:-1, group-title="地方频道", 东方卫视超清-8M
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
+#EXTINF:-1, group-title="其他频道", 印度
+http://204.107.27.38/live/3485.low.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 徐峥
+https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 成龙
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 篮球
+http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU/
+#EXTINF:-1, group-title="其他频道", 黄渤
+https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", TV8
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
+#EXTINF:-1, group-title="其他频道", 全纪实
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8
+#EXTINF:-1, group-title="其他频道", 刘德华
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 斯坦森
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 李连杰
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 林正英
+http://js.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1, group-title="其他频道", 高尔夫
+http://223.110.241.204:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+#EXTINF:-1, group-title="其他频道", 东南卫视
+http://223.110.241.204:6610/gitv/live1/DNWS/DNWS/
+#EXTINF:-1, group-title="其他频道", 京视剧场
+http://223.110.241.204:6610/gitv/live1/G_JINGJU/G_JINGJU/
+#EXTINF:-1, group-title="其他频道", 优漫卡通
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+#EXTINF:-1, group-title="其他频道", 农林卫视
+http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
+#EXTINF:-1, group-title="其他频道", 卡酷少儿
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1, group-title="其他频道", 卫星剧场
+http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
+#EXTINF:-1, group-title="其他频道", 历史频道
+http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
+#EXTINF:-1, group-title="其他频道", 发现之旅
+http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/
+#EXTINF:-1, group-title="其他频道", 嘉佳卡通
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1, group-title="其他频道", 国学频道
+http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1, group-title="其他频道", 女性时尚
+http://223.110.241.204:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/
+#EXTINF:-1, group-title="其他频道", 安多卫视
+http://223.110.241.204:6610/gitv/live1/G_ANDUO/G_ANDUO/
+#EXTINF:-1, group-title="其他频道", 家庭剧场
+http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8
+#EXTINF:-1, group-title="其他频道", 峨眉电影
+http://scgctvshow.sctv.com/hdlive/emei/3.m3u8
+#EXTINF:-1, group-title="其他频道", 延边卫视
+http://223.110.241.204:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
+#EXTINF:-1, group-title="其他频道", 弈坛春秋
+http://223.110.241.204:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+#EXTINF:-1, group-title="其他频道", 旅游卫视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226017/index.m3u8
+#EXTINF:-1, group-title="其他频道", 欢笑剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225997/index.m3u8
+#EXTINF:-1, group-title="其他频道", 法治天地
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226036/index.m3u8
+#EXTINF:-1, group-title="其他频道", 澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1, group-title="其他频道", 炫动卡通
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+#EXTINF:-1, group-title="其他频道", 王晶导演
+https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 科幻电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 置业频道
+http://223.110.241.204:6610/gitv/live1/G_ZHIYE/G_ZHIYE/
+#EXTINF:-1, group-title="其他频道", 职业指南
+http://223.110.241.204:6610/gitv/live1/G_ZHIYEZN/G_ZHIYEZN/
+#EXTINF:-1, group-title="其他频道", 虎牙亮剑
+http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙动漫
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙影视
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 赌博电影
+http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 都市剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226037/index.m3u8
+#EXTINF:-1, group-title="其他频道", SETTV
+http://livestream.vnvn.net/hls-live/livepkgr/_definst_/settv574-1/settv574-1.m3u8
+#EXTINF:-1, group-title="其他频道", TVRI*
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1, group-title="其他频道", 泰国ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙侠客行
+https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 速度与激情
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN健康
+http://live3.nty.tv189.com/tm-yg1jkpd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN军事
+http://live3.nty.tv189.com/tm-yg1gzjc-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN动漫
+http://live3.nty.tv189.com/tm-yg1dmpd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN旅游
+http://live3.nty.tv189.com/tm-yg1lypd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN电影
+http://live3.nty.tv189.com/tm-yg1dypd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", DugaTV
+http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", HighTV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Impact
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", KCTV-N
+http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
+#EXTINF:-1, group-title="其他频道", TVTuba
+http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
+#EXTINF:-1, group-title="其他频道", 中国交通频道
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+#EXTINF:-1, group-title="其他频道", 人文地理记录
+http://117.158.206.60:9080/live/renwendili.m3u8
+#EXTINF:-1, group-title="其他频道", 优漫卡通-1
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1, group-title="其他频道", 太仓党建频道
+http://58.211.172.37:1935/live/djpdpc/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 太仓娄东民生
+http://58.211.172.37:1935/live/ldmspc/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 太仓新闻频道
+http://58.211.172.37:1935/live/tcxwpc/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 孝昌新闻频道
+http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
+#EXTINF:-1, group-title="其他频道", 孝昌生活频道
+http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
+#EXTINF:-1, group-title="其他频道", 日-卫星剧场
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 法国CGTN
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1, group-title="其他频道", 花花公子韩国
+http://122.38.74.172:9981/stream/channelid/966306501.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙三国演义
+https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙大秦帝国
+https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙天龙八部
+https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙康熙皇朝
+https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙楚汉传奇
+https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙猫和老鼠
+https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国-CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国EBS1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国EBS2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国EBSe
+http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN-俄语
+http://live.cgtn.com/cctv-r.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN-国际
+http://live.cgtn.com/manifest.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN-西语
+http://live.cgtn.com/cctv-e.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN-记录
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1, group-title="其他频道", CGTN-阿语
+http://live.cgtn.com/cctv-a.m3u8
+#EXTINF:-1, group-title="其他频道", CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN微电影
+http://live3.nty.tv189.com/tm-yg1wdypd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN禅文化
+http://live3.nty.tv189.com/tm-yg1cwhpd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", PTVNews
+http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
+#EXTINF:-1, group-title="其他频道", 清华大学电视台
+http://v.cic.tsinghua.edu.cn:8080/live/tsinghuatv.flv
+#EXTINF:-1, group-title="其他频道", 虎牙宝莲灯前传
+http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN今古珍藏
+http://live3.nty.tv189.com/tm-yg1zypd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN动作影院
+http://live3.nty.tv189.com/tm-yg1dzyy-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN喜剧影院
+http://live3.nty.tv189.com/tm-yg1xjyy-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN情感影院
+http://live3.nty.tv189.com/tm-yg1qgyy-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN流金岁月
+http://live3.nty.tv189.com/tm-yg1scpd-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN热播剧场
+http://live3.nty.tv189.com/tm-yg1rbjc-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN电影导视
+http://live3.nty.tv189.com/tm-yg1dyds-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN经典剧场
+http://live3.nty.tv189.com/tm-yg1jdjc-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CIBN骄阳剧场
+http://live3.nty.tv189.com/tm-yg1jyjc-512k.m3u8
+#EXTINF:-1, group-title="其他频道", CarinaTV
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", News24/7
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1, group-title="其他频道", TVChosun
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 徐老师LOL故事
+http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 赌神全集新木乃伊
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 韩-GOODTV
+http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国-KCTVN
+http://122.202.129.136:1935/live/ch4/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", BESTV超级体育
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226030/index.m3u8
+#EXTINF:-1, group-title="其他频道", BestV体育-1
+http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
+#EXTINF:-1, group-title="其他频道", BestV体育-3
+http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
+#EXTINF:-1, group-title="其他频道", BestV体育-4
+http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
+#EXTINF:-1, group-title="其他频道", BestV体育-5
+http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/2.m3u8
+#EXTINF:-1, group-title="其他频道", CromtelTV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161
+#EXTINF:-1, group-title="其他频道", JOJFAMILY
+http://nn2.joj.sk/hls/family-540.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv动画王国
+http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv完美游戏
+http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv精品电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1, group-title="其他频道", Newtv超级电影
+http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:-1, group-title="其他频道", StandbyTV
+http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1, group-title="其他频道", 日-ファミリー剧场
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 日本NEWS244
+https://n24-cdn-live-b.ntv.co.jp/ch01/Low.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙康熙微服私访记
+https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", Hotmix-Hot
+http://hotmixradio-dance.ice.infomaniak.ch/hotmixradio-hot-128.mp3
+#EXTINF:-1, group-title="其他频道", KanalYekTV
+http://livestream.5centscdn.com/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/index.m3u8
+#EXTINF:-1, group-title="其他频道", PolsatCafe
+http://hls.redefine.pl/97100F84/1577/0/hls576/576p/list.m3u8
+#EXTINF:-1, group-title="其他频道", UTV(Opt-1)
+http://82.76.40.76:80/utvedge/utvlive/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙倚天屠龙记苏有朋
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙神雕侠侣古天乐版
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙西游记(86版)
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", 韩国TVChosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", PolsatNews2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:-1, group-title="其他频道", 777TehnikaTV
+http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", 虎牙倚天剑屠龙刀吴启华版
+https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8
+#EXTINF:-1, group-title="其他频道", =July.12.2018
+http://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:-1, group-title="其他频道", PBNMusic(USA)
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", TVKopernikus1
+http://212.200.102.3:5000/rtp/239.0.0.1:5000
+#EXTINF:-1, group-title="其他频道", TVKopernikus2
+http://212.200.102.3:5000/rtp/239.0.0.2:5000
+#EXTINF:-1, group-title="其他频道", TheJazzGroove
+http://199.180.75.116:80/stream
+#EXTINF:-1, group-title="其他频道", 美国CGTN(Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1, group-title="其他频道", TochkaTV(Opt-1)
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", WHPRTV33Detroit
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", MultimediosLaguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1, group-title="其他频道", SoutheasternChannel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1, group-title="其他频道", VTVChannel6Colorado
+http://hls.ksl.com/t/strata/playlist.m3u8
+#EXTINF:-1, group-title="其他频道", Libya'sChannel(Opt-1)
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+#EXTINF:-1, group-title="其他频道", InfoWars-AlexJonesShow
+http://192.240.107.134:80/alexjonesshow
+#EXTINF:-1, group-title="其他频道", MultimediosMonterrey(Opt-1)
+http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1, group-title="广播频道", RadionorbaTV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", Antena1FM94.7
+http://5.135.83.159:80/stream2
+#EXTINF:-1, group-title="广播频道", RadioDivyaJyoti
+http://74.50.122.103:9280/;stream
+#EXTINF:-1, group-title="广播频道", BBCRadio2[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:-1, group-title="广播频道", BBCRadio3[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:-1, group-title="广播频道", BBCRadio4[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:-1, group-title="广播频道", BritishSixtiesRadio
+http://5.63.151.52:7070/stream
+#EXTINF:-1, group-title="广播频道", CvsRadio1-ReggaeJam
+http://74.50.122.103:9128/;stream
+#EXTINF:-1, group-title="广播频道", RadioTeleBoston(USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1, group-title="广播频道", BBCRadio6Music[Opt-1]
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:-1, group-title="广播频道", GardenCountyRadioDublin
+http://5.63.151.52:7044/stream
+#EXTINF:-1, group-title="广播频道", LaBakana105.9FMSantiago
+http://199.217.118.215:8238/stream
+#EXTINF:-1, group-title="广播频道", ArabDetroitRadioDearborn
+http://192.240.102.133:9590/stream
+#EXTINF:-1, group-title="广播频道", BalkanHiTRadio-NarodnaFolk
+http://5.63.151.52:7031/stream
+#EXTINF:-1, group-title="广播频道", OlimpicaStereo105.9FMBogota
+http://i60.letio.com/9114.aac?type=.flv?type=.flv
+#EXTINF:-1, group-title="广播频道", RadioMujer1040AMGuadalajara
+http://radio.promosat.com:8002/stream
+#EXTINF:-1, group-title="广播频道", RadioFutura100.7FMTalca[AAC]
+http://stream5.eltelon.com/futura.aac
+#EXTINF:-1, group-title="广播频道", GoldiesRadio107.9FMSint-Niklaas
+http://5.63.151.52:7064/stream
+#EXTINF:-1, group-title="广播频道", RadioPlus106.9FMAntofagasta[AAC]
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:-1, group-title="广播频道", KarcFM105.9BudapestHungary[Opt-1]
+http://104.236.214.6:80/high
+#EXTINF:-1, group-title="广播频道", RadioDinamica100.7FMSantiago[AAC]
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:-1, group-title="广播频道", RadioCarnaval96.5FMAntofagasta[AAC]
+http://sonando.us.digitalproserver.com/carnaval_antofagasta.aac
+#EXTINF:-1, group-title="广播频道", RadioUniversidaddeTarapaca95.9FMArica[AAC]
+http://stream5.eltelon.com:8000/universidad-de-tarapaca.aac
